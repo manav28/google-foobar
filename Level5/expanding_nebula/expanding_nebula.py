@@ -18,7 +18,6 @@ from itertools import product
 
 
 def solution(g):
-    # Your code here
     def get_images():
         """
         For any 2x2 tuple of booleans this function generates a dictionary
